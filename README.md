@@ -47,7 +47,7 @@ O projeto contém as seguintes classes e interfaces:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-iphone.git
+   git clone [https://github.com/DanniNascimento/dio_desafioPOO/tree/main]
   ##
 
 2. Navegue até o diretório do projeto:
