@@ -14,6 +14,8 @@ O iPhone neste projeto é modelado com três funcionalidades principais:
 
 A modelagem das funcionalidades foi feita utilizando o diagrama UML. A estrutura foi dividida em três interfaces (uma para cada funcionalidade) e a classe iPhone, que implementa todas elas.
 
+![UML Mermaid](https://github.com/DanniNascimento/dio_desafioPOO/blob/main/UML.jpeg)
+
 *Interfaces:*
 - ReprodutorMusical
 - AparelhoTelefonico
